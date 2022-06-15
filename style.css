@@ -42,3 +42,18 @@ button{
     color: #F9faf8;
     background-color: #3882f6;
 }
+
+/* Page layout 
+*/
+
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+}
