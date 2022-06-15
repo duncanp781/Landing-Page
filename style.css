@@ -1,0 +1,44 @@
+/* Set basic colors*/
+*{
+    font-family:  Arial, Helvetica, sans-serif
+}
+
+header,
+.intro{
+    color: #F9faf8;
+    background-color: #1F2937;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header .links,
+.subtext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button{
+    background-color: #3882f6;
+    color: #F9faf8;
+}
+
+.main{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.signUp{
+    color: #F9faf8;
+    background-color: #3882f6;
+}
